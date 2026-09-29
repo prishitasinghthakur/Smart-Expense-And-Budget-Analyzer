@@ -52,8 +52,7 @@ The expense and budget data are stored only while the program is running. When t
 
 ## 4. Project Structure
 
-Smart-Expense-Tracker/
-│
+Smart-Expense-Tracker
 
 ├── main.py
 
