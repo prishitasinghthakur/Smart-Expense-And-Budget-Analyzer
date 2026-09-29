@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-**Smart Expense and Budget Analyzer** is a Python-based application designed to help users manage and understand their expense.
+Smart Expense and Budget Analyzer is a Python-based application designed to help users manage and understand their expense.
 
 The application allows users to enter their expenses, organize them into categories, set a budget, check their budget status, and analyse their spending.
 
@@ -54,12 +54,19 @@ The expense and budget data are stored only while the program is running. When t
 
 Smart-Expense-Tracker/
 │
+
 ├── main.py
+
 ├── expense.py
+
 ├── budget.py
+
 ├── analyzer.py
+
 ├── utils.py
+
 ├── README.md
+
 ├── statement.md
 
 
