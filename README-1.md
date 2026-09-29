@@ -89,7 +89,7 @@ Check whether Python is installed by opening the terminal and running:
 
 "python --version"
 
-### Step 3: Run the Project
+### Step 2: Run the Project
 
 Open the terminal inside the project folder and run:
 
