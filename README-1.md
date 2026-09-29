@@ -185,8 +185,8 @@ The application should display:
 The new session should start with **no previous expenses and no previous budget**.
 
 
-## 9. Conclusion
+## 8. Conclusion
 
-The **Smart Expense and Budget Analyzer** provides a simple way to record expenses, manage a budget, and understand spending patterns using Python.
+The Smart Expense and Budget Analyzer provides a simple way to record expenses, manage a budget, and understand spending patterns using Python.
 
 The project demonstrates practical implementation of Python programming concepts such as functions, classes, lists, dictionaries, loops, conditional statements, exception handling, and modular programming.
