@@ -97,41 +97,7 @@ Open the terminal inside the project folder and run:
 
 The main menu will appear in the terminal.
 
-## 6. How to Use the Application
-
-After running the program, the following menu is displayed:
-
-1. Add Expense
-2. View Expenses
-3. Set Budget
-4. Check Budget
-5. Expense Analysis
-6. Exit
-
-Select an option by entering its corresponding number.
-
-
-To add an expense:
-
-```text
-Enter your choice: 1### Example
-
-Enter amount: ₹500
-Choose category: 1
-Enter description: Lunch
-```
-
-The expense will then be added to the current session.
-
-To analyse expenses, select:
-
-```text
-5. Expense Analysis
-```
-
-The application will display the total spending and category-wise spending percentages.
-
-## 7. Testing Instructions
+## 6.Testing Instructions
 
 The following tests can be performed to verify that the application works correctly.
 
@@ -184,7 +150,7 @@ The application should display:
 The new session should start with **no previous expenses and no previous budget**.
 
 
-## 8. Conclusion
+## 7. Conclusion
 
 The Smart Expense and Budget Analyzer provides a simple way to record expenses, manage a budget, and understand spending patterns using Python.
 
